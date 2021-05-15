@@ -1,4 +1,5 @@
 # simple-gallery-app-v3
+Решение тестового задания для вакансии Junior JavaScript Developer компании АО КонТрол
 
 ## Project setup
 ```
